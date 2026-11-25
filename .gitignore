@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+.qa-headless-profile/
+jf-mobile-preview.png
+mobile-*-qa.png
+*.qa-probe.html
+.metrics-*.html
+.qa-chrome-profile/
+.qa-*-profile/
